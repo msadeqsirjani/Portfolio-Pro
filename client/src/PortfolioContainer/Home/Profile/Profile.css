@@ -111,7 +111,7 @@
   }
   .profile-options {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .proflie-details {
     margin: 25px 0 0;
